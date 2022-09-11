@@ -1,0 +1,123 @@
+# Copyright (C) 2022 Ameer Humza
+# This file is distributed under the GPL-2.0+.
+msgid ""
+msgstr ""
+"Project-Id-Version: MonsterInsights Usage 1.0.0\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/monsterinsights-usage\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2022-06-13T16:30:52+00:00\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"X-Generator: WP-CLI 2.6.0\n"
+"X-Domain: monsterinsights-usage\n"
+
+#. Plugin Name of the plugin
+msgid "MonsterInsights Usage"
+msgstr ""
+
+#. Description of the plugin
+msgid "Just a simple plugin to show how to use MI Usage via a shortcode and a block."
+msgstr ""
+
+#: admin/class-mi-usage-admin.php:72
+#: includes/class-mi-usage-ajax.php:71
+#: includes/class-mi-usage-api.php:46
+#: includes/class-mi-usage-cli.php:72
+#: includes/class-mi-usage-shortcodes.php:71
+#: includes/class-mi-usage.php:108
+#: includes/class-mi-usage.php:118
+msgid "This action is forbidden!"
+msgstr ""
+
+#: includes/class-mi-usage-ajax.php:125
+msgid "This user is forbidden!"
+msgstr ""
+
+#: includes/class-mi-usage-ajax.php:135
+msgid "No data found."
+msgstr ""
+
+#: assets/js/admin.js:25
+#: assets/js/shortcode.js:26
+#: blocks/table/index.js:119
+#: blocks/table/index.js:76
+msgid "Something went wrong. Could not fetch new data."
+msgstr ""
+
+#: blocks/table/index.js:135
+#: blocks/table/index.js:94
+msgid "MonsterInsights Usage Table"
+msgstr ""
+
+#: blocks/table/index.js:136
+#: blocks/table/index.js:95
+msgid "A simple block that shows takes MonsterInsights usage stats from an API and shows them in a table"
+msgstr ""
+
+#: blocks/table/index.js:139
+#: blocks/table/index.js:99
+msgid "MonsterInsights"
+msgstr ""
+
+#: blocks/table/index.js:139
+#: blocks/table/index.js:100
+msgid "Usage"
+msgstr ""
+
+#: blocks/table/index.js:139
+#: blocks/table/index.js:101
+msgid "Table"
+msgstr ""
+
+#: blocks/table/index.js:139
+#: blocks/table/index.js:102
+msgid "API"
+msgstr ""
+
+#: blocks/table/index.js:192
+#: blocks/table/index.js:163
+msgid "Settings"
+msgstr ""
+
+#: blocks/table/index.js:195
+#: blocks/table/index.js:167
+msgid "Show Title?"
+msgstr ""
+
+#: blocks/table/index.js:201
+#: blocks/table/index.js:174
+msgid "Columns"
+msgstr ""
+
+#: blocks/table/index.js:204
+#: blocks/table/index.js:178
+msgid "ID"
+msgstr ""
+
+#: blocks/table/index.js:210
+#: blocks/table/index.js:183
+msgid "First Name"
+msgstr ""
+
+#: blocks/table/index.js:216
+#: blocks/table/index.js:188
+msgid "Last Name"
+msgstr ""
+
+#: blocks/table/index.js:222
+#: blocks/table/index.js:193
+msgid "Email"
+msgstr ""
+
+#: blocks/table/index.js:228
+#: blocks/table/index.js:198
+msgid "Date"
+msgstr ""
+
+#: blocks/table/index.js:247
+#: blocks/table/index.js:231
+msgid "Loading..."
+msgstr ""
